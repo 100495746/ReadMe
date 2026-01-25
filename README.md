@@ -15,7 +15,7 @@
 🟢 Nivel alto
 ⬆️ Alto (novato alto etc)
 
-- **Lenguajes:** ⬆️🟢Python , ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, 🟠JavaScript
+- **Lenguajes:** ⬆️🟢Python , 🟡Java, ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, 🟠JavaScript
 
   
 - **Conocimientos:** programación orientada a objetos, recursividad, programación concurrente (hilos y procesos), búsqueda (BFS, DFS, A*)
@@ -74,7 +74,7 @@
 🟢 High level
 ⬆️ High (Novice-high... etc)
 
-- **Languages:** ⬆️🟢Python , ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, 🟠JavaScript
+- **Languages:** ⬆️🟢Python , 🟡Java, ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, 🟠JavaScript
 
   
 - **Knowledge:** Object oriented programming, recursivity, concurrent programming (threads and processes ), search algorithms (BFS, DFS, A*)
