@@ -1,6 +1,6 @@
 # README
 
- ! EGLISH BELOW
+ ! ENGLISH BELOW
 # 👋 ¡Hola! Soy Raúl Armas
 
 🎓 Estudiante de Ingeniería Informática en la Universidad Carlos III de Madrid (3º curso).  
