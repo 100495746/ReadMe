@@ -15,7 +15,7 @@
 🟢 Nivel alto
 ⬆️ Alto (novato alto etc)
 
-- **Lenguajes:** ⬆️🟢Python , 🟡Java, ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, 🟠JavaScript
+- **Lenguajes:** ⬆️🟢Python , 🟡Java, ⬆️🟡C, ⬆️🟡C++, ⬆️🟠PL/SQL, 🟡HTML, 🟡CSS, JavaScript
 
   
 - **Conocimientos:** programación orientada a objetos, recursividad, programación concurrente (hilos y procesos), búsqueda (BFS, DFS, A*)
@@ -23,7 +23,7 @@
   - Machine Learning con Python  
   - Sistemas distribuidos en C  
   - JavaScript para aplicaciones web  
-  - Excel avanzado
+  - Big Data 
 
 ---
 
@@ -47,6 +47,9 @@
 ### 🧠 Optimización y búsqueda
 - 🛬 [Heurística2](https://github.com/100495746/Heuristica2.git) – Planeamiento de aterrizajes con restricciones usando CSP + A*.
 
+### 🤖 Agente jugador de "damas"
+(privado)
+- Agente de IA con java
 ---
 
 ## 📫 Contacto
